@@ -1,0 +1,69 @@
+ body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+.indexdiv{
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;;
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+}
+.loginh1{
+  font-family: 'Berkshire Swash', cursive;
+}
+.container{
+  background-image: url('img/images3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100rem;
+  border: 2px solid white;
+
+  font-family: 'Berkshire Swash', cursive;
+  margin: 0 20%;
+  
+}
+select{
+  width: 15%;
+  padding: 8px 7px;
+  border: 2px solid blueviolet;
+  border-radius: 4px;
+
+}
+.spam{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+input{
+  border: 2px solid blueviolet;
+  border-radius: 6px;
+  width: 15%;
+  padding: 8px 7px;
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+   border: 4px;
+  color: white;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn{
+    background-color: white; 
+    color: black; 
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    
+  }
+  
+  .btn:hover {
+    background-color: blueviolet;
+    color: white;
+} 
